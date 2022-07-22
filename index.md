@@ -4,6 +4,6 @@
         <title>Syazwan Mukhizan</title>
     </head>
     <body>
-        <h2>Hi there! i'm Syazwan Mukhizan</h2>
+        <h1>Hi there! i'm Syazwan Mukhizan</h1>
     </body>
 </html>
