@@ -1,5 +1,6 @@
 <html>
     <head>
+    <link rel="stylesheet" href="stylesheet.css">
         <title>Syazwan Mukhizan</title>
     </head>
     <body>
