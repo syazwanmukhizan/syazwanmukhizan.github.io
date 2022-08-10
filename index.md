@@ -8,7 +8,7 @@
         <h1>Hi there! i'm Syazwan Mukhizan</h1>
         </div>
 
-  <table bored="1" Width="100%">
+  <table Border="1" Width="100%">
     <tr>
         <td Width="30%">
         Cell1 Row1
