@@ -5,3 +5,10 @@ h1{
 body{
     background-color: pink;
 }
+
+table{
+    color:red;
+    background-color: black;
+    border-style: solid;
+    border-color: green;
+}
