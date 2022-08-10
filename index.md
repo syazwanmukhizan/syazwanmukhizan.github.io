@@ -4,8 +4,10 @@
         <title>Syazwan Mukhizan</title>
     </head>
     <body>
+    <div>
         <h1>Hi there! i'm Syazwan Mukhizan</h1>
         </div>
+
 <table>
     <tr>
         <td>
