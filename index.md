@@ -7,7 +7,7 @@
         <div>
         <h1>Hi there! i'm Syazwan Mukhizan</h1>
         </div>
-            <table Border="1" Width="100%">
+            <table background-color="black" Border="1" Width="100%">
                 <tr>
                     <td>
                     Cell1 Row1
