@@ -10,18 +10,18 @@
 
   <table Border="1" Width="100%">
     <tr>
-        <td Width="30%">
+        <td>
         Cell1 Row1
         </td>
-        <td width="70">
+        <td>
         Cell2 Row1
         </td>
     </tr>
     <tr>
-        <td Width="30%">
+        <td>
         Cell1 Row2
         </td>
-        <td width="70">
+        <td>
         Cell2 Row2
         </td>
     </tr>
