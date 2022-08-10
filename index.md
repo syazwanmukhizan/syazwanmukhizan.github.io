@@ -4,7 +4,7 @@
         <title>Syazwan Mukhizan</title>
     </head>
     <body>
-    <div>
+        <div>
         <h1>Hi there! i'm Syazwan Mukhizan</h1>
         </div>
 
