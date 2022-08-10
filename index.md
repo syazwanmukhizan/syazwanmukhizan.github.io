@@ -8,7 +8,7 @@
         <h1>Hi there! i'm Syazwan Mukhizan</h1>
         </div>
 
-<table>
+  <table>
     <tr>
         <td>
         Cell1 Row1
@@ -25,6 +25,6 @@
         Cell2 Row2
         </td>
     </tr>
-</table>
+  </table>
     </body>
 </html>
