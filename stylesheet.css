@@ -12,3 +12,11 @@ table{
     border-style: solid;
     border-color: green;
 }
+
+#width{
+    width:30%;
+}
+
+#width2{
+    width:70%;
+}
