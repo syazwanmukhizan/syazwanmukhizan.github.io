@@ -8,20 +8,20 @@
         <h1>Hi there! i'm Syazwan Mukhizan</h1>
         </div>
 
-  <table>
+  <table bored="1" Width="100%">
     <tr>
-        <td>
+        <td Width="30%">
         Cell1 Row1
         </td>
-        <td>
+        <td width="70">
         Cell2 Row1
         </td>
     </tr>
     <tr>
-        <td>
+        <td Width="30%">
         Cell1 Row2
         </td>
-        <td>
+        <td width="70">
         Cell2 Row2
         </td>
     </tr>
