@@ -9,18 +9,18 @@
         </div>
             <table style="width:100%">
                 <tr>
-                    <td>
+                    <td id="width">
                     Cell1 Row1
                     </td>
-                    <td>
+                    <td id="width2">
                     Cell2 Row1
                     </td>
                 </tr>
                 <tr>
-                    <td>
+                    <td id="width">
                     Cell1 Row2
                     </td>
-                    <td>
+                    <td id="width2">
                     Cell2 Row2
                     </td>
                 </tr>
